@@ -44,4 +44,22 @@ Tras el análisis detallado, se recomienda **cerrar o vender la Tienda 4**, ya q
 - A pesar de tener el costo de envío más bajo, este ahorro no compensa sus debilidades generales.
 
 ---
+## 📌 Instrucciones de Uso
 
+Puedes ejecutar este proyecto en tu entorno local o directamente desde Google Colab.
+
+### 🔗 Opción 1: Ejecutar en Google Colab (Recomendado)
+
+1. Abre el archivo `AluraStoreLatam.ipynb` en Google Colab:
+   - [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Marglodis/data-science-challenge-one-alura/blob/main/AluraStoreLatam.ipynb)
+
+2. Ejecuta todas las celdas en orden para reproducir el análisis completo.
+
+---
+
+### 🖥️ Opción 2: Ejecutar en tu entorno local
+
+1. Clona este repositorio:
+```bash
+git clone https://github.com/Marglodis/data-science-challenge-one-alura.git
+cd data-science-challenge-one-alura
